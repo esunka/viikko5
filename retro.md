@@ -1,0 +1,4 @@
+Start, Stop, Continue, More of, Less of Wheel -tekniikkaa käytetetään prosessissa, jotta voidaan määrittää, miten asiassa pitäisi jatkaa ja mihin asioihin pitäis keskittyä ja mitkä voidaan lopettaa kokonaan. Tämä prosessi on melko nopea: 10 minuuttia pienelle ryhmälle ja 25 minuuttia suuremmalle ryhmälle. Vaadittu aika tietysti riippuu retroon varatusta ajasta. 
+Start, Stop, Continue, More of, Less of Wheel -tekniikka muistuttaa läheisesti Scrumin "dailyjä", joissa käydään läpi mitä on tehty ja mitä tehdään seuraavaksi.
+
+Glad, Sad, Mad -tekniikaan vaaditaan lappuja, taulu ja kyniä. Se on hyvin yksinkertainen malli, ja siinä keskustellaan mieluummin laajasti kuin tarkemmin asioista. Siinä jäsenet luokittelevat positiiviset ja negatiiviset asiat, minkä jälkeen tiimi äänestää, mistä keskustellaan. Sen jälkeen keskustellaan eniten ääniä saaneista asioista ensin ja jatketaan kunnes kaikki on käyty läpi tai aika on loppunut. 
